@@ -14,4 +14,4 @@
     - 数值算法的实现与**稳定性/精度验证**。
     - 模拟结果的**物理意义分析**。
     - 团队分工与 AI 使用心得。
-[Ising模型相变与磁滞回线的蒙特卡洛模拟 3_very_handsome_guys.pptx](https://github.com/user-attachments/files/29514828/Ising.3_very_handsome_guys.pptx)
+
